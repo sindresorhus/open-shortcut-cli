@@ -1,0 +1,46 @@
+{
+  "name": "open-shortcut-cli",
+  "version": "0.0.0",
+  "description": "Open the URL from a web shortcut file in the browser",
+  "license": "MIT",
+  "repository": "sindresorhus/open-shortcut-cli",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bin": {
+    "open-shortcut": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "shortcut",
+    "alias",
+    "url",
+    "uri",
+    "desktop",
+    "webloc",
+    "web",
+    "internet",
+    "open",
+    "opn",
+    "browser"
+  ],
+  "dependencies": {
+    "meow": "^3.3.0",
+    "open-shortcut": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
