@@ -28,7 +28,7 @@ $ open-shortcut --help
 ## Related
 
 - [open-shortcut](https://github.com/sindresorhus/open-shortcut) - API for this module
-- [shortcut-url-cli](https://github.com/sindresorhus/open-shortcut-cli) - Get the URL from a web shortcut file
+- [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file
 
 
 ## License
