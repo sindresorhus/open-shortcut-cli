@@ -1,4 +1,4 @@
-# open-shortcut-cli
+# open-shortcut-cli [![Build Status](https://travis-ci.org/sindresorhus/open-shortcut-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/open-shortcut-cli)
 
 > Open the URL from a [web shortcut](https://en.wikipedia.org/wiki/File_shortcut) file in the browser
 
@@ -33,4 +33,4 @@ $ open-shortcut --help
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](https://sindresorhus.com)

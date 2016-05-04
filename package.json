@@ -13,10 +13,10 @@
     "open-shortcut": "cli.js"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "xo && ava"
   },
   "files": [
     "cli.js"
@@ -37,10 +37,12 @@
     "browser"
   ],
   "dependencies": {
-    "meow": "^3.3.0",
-    "open-shortcut": "^1.0.1"
+    "meow": "^3.7.0",
+    "open-shortcut": "^2.0.0"
   },
   "devDependencies": {
-    "ava": "0.0.4"
+    "ava": "*",
+    "execa": "^0.4.0",
+    "xo": "*"
   }
 }
