@@ -14,7 +14,7 @@ const cli = meow(`
 `);
 
 if (cli.input.length === 0) {
-	console.error('Specify a filepath');
+	console.error('Specify a file path');
 	process.exit(1);
 }
 

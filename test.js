@@ -1,6 +1,6 @@
 import test from 'ava';
 import execa from 'execa';
 
-test(t => {
-	t.notThrows(execa('./cli.js', ['fixture/google'], {cwd: __dirname}));
+test('main', async t => {
+	await t.notThrowsAsync(execa('./cli.js', ['fixture/google']));
 });
