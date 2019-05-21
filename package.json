@@ -1,6 +1,6 @@
 {
 	"name": "open-shortcut-cli",
-	"version": "2.0.0",
+	"version": "3.0.0",
 	"description": "Open the URL from a web shortcut file in the browser",
 	"license": "MIT",
 	"repository": "sindresorhus/open-shortcut-cli",
