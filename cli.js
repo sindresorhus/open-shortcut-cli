@@ -5,7 +5,7 @@ const openShortcut = require('open-shortcut');
 
 const cli = meow(`
 	Usage
-	  $ open-shortcut <filepath>
+	  $ open-shortcut <file-path>
 
 	Examples
 	  $ open-shortcut google
