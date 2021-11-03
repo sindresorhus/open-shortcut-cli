@@ -2,13 +2,11 @@
 
 > Open the URL from a [web shortcut](https://en.wikipedia.org/wiki/File_shortcut) file in the browser
 
-
 ## Install
 
+```sh
+npm install --global open-shortcut-cli
 ```
-$ npm install --global open-shortcut-cli
-```
-
 
 ## Usage
 
@@ -23,7 +21,6 @@ $ open-shortcut --help
 
   Leave out the extension for cross-platform compatibility
 ```
-
 
 ## Related
 
